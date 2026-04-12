@@ -1,3 +1,5 @@
+# Determining-the-relationship-between-patient-s-statisfaction-age-severity-of-illness-anxiety-level
+
 data = scan()
 M = matrix(data, ncol=5, byrow=T)
 y = M[,2]
