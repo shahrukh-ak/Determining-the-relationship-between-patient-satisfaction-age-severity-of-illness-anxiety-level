@@ -1,9 +1,4 @@
 # Patient Satisfaction Regression Analysis
-#
-# Professionalized version of the original project file.
-# The code and stated results are retained from the source as closely as possible.
-# Output text from the original file has been converted to comments where needed for readability.
-#
 
 # Determining-the-relationship-between-patient-s-statisfaction-age-severity-of-illness-anxiety-level
 
